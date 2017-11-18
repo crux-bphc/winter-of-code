@@ -86,7 +86,7 @@ var makelinks =  function(){
       filelist.push(listentry);
       //console.log("Output File:", htmlfile);
     });
-    var mdlist = "# All Pages\n\nList of all pages in *foss@bphc* repository.\n\n";
+    var mdlist = "# All Pages\n\nList of all pages in the *Crux Winter of Code* repository.\n\n";
     filelist.forEach(function (elem, index) {
       // console.log("Lister:", index, elem.title, elem.link);
       mdlist += index + ". **[" + elem.title + "](" + elem.link.replace("../docs/","") + ")** at `" + elem.link.replace("../docs/","/") + "`\n";
