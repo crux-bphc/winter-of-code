@@ -1,0 +1,48 @@
+body {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fefefe;
+}
+
+@media only screen and (max-width: 900px) {
+    body {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+.header{
+    background-color: #333;
+    color: #eee;
+    padding: 10px;
+    padding-top:10px;
+    padding-bottom: 2px;
+    border-radius: 5px 5px 0px 0px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.header h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+section.header a {
+    text-decoration: none;
+    color: unset;
+}
