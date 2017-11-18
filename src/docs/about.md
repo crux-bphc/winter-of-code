@@ -20,3 +20,9 @@ It is encouraged to submit work in progress(WIP) versions of your proposal befor
 
 ## Project Ideas
 
+You can either choose to apply for one of the below projects/ideas, or bring up an idea of your own:
+
+1. **[Zazu](https://github.com/tinytacoteam/zazu)** is a cross platform and fully extensible and open source launcher for hackers, creators and dabblers. The project is fairly active with a decent number of collaborators.
+2. **FOSSASIA Mini Projects** (https://github.com/fossasia/labs.fossasia.org/issues?q=is%3Aissue+is%3Aopen+label%3Amini-project) are a good starting point for someone looking to apply for a GSoC project under FOSSASIA.
+3. 
+3.  
