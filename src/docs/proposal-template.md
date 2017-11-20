@@ -24,6 +24,6 @@ This section can be used for any details you feel don't fit in the previous sect
 
 ## Examples
 
-* https://season.kde.org/?q=view_projects&prg=41&p=666
-* https://season.kde.org/?q=view_projects&prg=41&p=611
-* https://www.dropbox.com/s/06e2z0s4bldzlhy/gsoc-proposal.pdf?dl=0
+- [Afroz Ahmed - FOSSASIA](https://github.com/enigmaeth/GSoC-Proposal/blob/master/ImportofEventsintoOpenEventOrgaServer.pdf)
+- [Rohitt Vashishtha - Zulip](https://docs.google.com/document/d/1EB7NacP0Iu_Us2fWes09jgSwOCe8znc3eU4EfwVReeg/edit?usp=sharing)
+- [Arnav Dhamija - KDE](https://www.dropbox.com/s/06e2z0s4bldzlhy/gsoc-proposal.pdf?dl=0)

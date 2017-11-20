@@ -1,0 +1,15 @@
+{
+  "short_name": "Crux Winter of Code",
+  "name": "Crux Winter of Code",
+  "icons": [
+    {
+      "src": "https://crux-bphc.github.io/img/logo.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#efeff0",
+  "theme_color": "#202729",
+  "display": "standalone"
+}
