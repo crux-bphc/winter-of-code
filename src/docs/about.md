@@ -49,5 +49,6 @@ We can only do justice to a limited number of candidates due to lack of mentors,
 ## Project Ideas
 
 There is no restriction on the project idea you work on, but to help you out we have curated a small list of projects you could choose from. Check out the list [here](projects).
+If you're a beginner/you want to learn a new language or a new technology, you can apply for the same and a mentor will be assigned to you to guide you through the same and help you learn the language/tech and make you work on a project with the same.
 
 Each person would be paired with at least one mentor among those listed [here](mentors) for the project. Please drop an email to crux@hyderabad.bits-pilani.ac.in or contact one of the mentors for any queries.
