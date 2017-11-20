@@ -4,8 +4,8 @@ Crux Winter of Code would proceed from 20th November, 2017 to 20th January, 2018
 
 | Date | Event |
 | --- | --- |
-| 19th November | Program Announced |
-| 20th November | Proposal Submission Begins |
+| 20th November | Program Announced |
+| 21th November | Proposal Submission Begins |
 | 30th November | Proposal Submission Ends |
 | 10th December | Accepted Proposals Announced |
 | 17th December | Coding Period Begins |
