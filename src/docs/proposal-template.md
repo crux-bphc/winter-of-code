@@ -20,7 +20,7 @@ Here, you should describe a plan for your project and set milestones for points 
 
 ## About Me / Miscellaneous Details
 
-This section can be used for any details you feel don't fit in the previous sections. You can mention your preferred working hours and any events (such as holiday plans) due to which you might need to take a break from coding. This will help your mentor in co-ordinating with you.
+This section can be used for any details you feel don't fit in the previous sections. You can mention your preferred working hours and any events (such as holiday plans) due to which you might need to take a break from coding. This will help your mentor in coordinating with you.
 
 ## Examples
 

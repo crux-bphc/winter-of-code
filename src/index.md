@@ -1,6 +1,6 @@
 # Announcing Winter of Code 2017
 
-To all open source enthusiasts in campus who want to take the next step......-insert more charming description here-
+Whether you're a beginner to open source looking to test the waters, or a veteran looking to take your contributions to the next level, WoC is what you have been looking for. Modeled along the lines of Google Summer of Code at a relatively lower difficulty setting, this provides participants the opportunity of earning some nice goodies alongside raking up valuable experience.
 
 ### TLDR
 
