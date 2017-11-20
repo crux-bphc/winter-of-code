@@ -10,4 +10,5 @@ Whether you're a beginner to open source looking to test the waters, or a vetera
 4. Submit final proposal before the deadline mentioned in the [timeline](timeline).
 5. Wait for the results, and begin coding.
 6. Code the vacations away.
-7. Profit.
+7. ???
+8. Profit.
