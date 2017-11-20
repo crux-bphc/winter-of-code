@@ -86,27 +86,31 @@ var makelinks =  function(){
       filelist.push(listentry);
       //console.log("Output File:", htmlfile);
     });
-    var mdlist = "# All Pages\n\nList of all pages in the *Crux Winter of Code* repository.\n\n";
+    var mdlist = "---\n\n### Site Index\n\nList of all pages in the *Crux Winter of Code* repository.\n\n";
     filelist.forEach(function (elem, index) {
       // console.log("Lister:", index, elem.title, elem.link);
       mdlist += index + ". **[" + elem.title + "](" + elem.link.replace("../docs/","") + ")** at `" + elem.link.replace("../docs/","/") + "`\n";
     });
     var htmllist = marked(mdlist);
-    template = template.replace('<%=content%>', htmllist);
-    template = template.replace('<%=title%>', "All Pages");
-    var mkdirp = require('mkdirp');
-    var filepath = outdir + "index.html";
-    mkdirp(parsePath(filepath).dir, function (err) {
-      if (err) {
-        return console.log(err);
-      }
-      fs.writeFile(filepath, template, function (err) {
+    fs.readFile('index.md', function(err,data) {
+      var indexmd = data.toString();
+      var indexhtml = marked(indexmd);
+      template = template.replace('<%=content%>', indexhtml + htmllist);
+      template = template.replace('<%=title%>', "Home");
+      var mkdirp = require('mkdirp');
+      var filepath = outdir + "index.html";
+      mkdirp(parsePath(filepath).dir, function (err) {
         if (err) {
           return console.log(err);
         }
-        console.log("Lister: Storing links in",filepath);
+        fs.writeFile(filepath, template, function (err) {
+          if (err) {
+            return console.log(err);
+          }
+          console.log("Lister: Storing links in",filepath);
+        });
       });
-    });
+    })
     //console.log(template);
   });
 }
