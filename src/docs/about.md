@@ -41,21 +41,19 @@ We can only do justice to a limited number of candidates due to lack of mentors,
 
 ## Project Ideas
 
-You can either choose to apply for one of the below projects/ideas, or bring up an idea of your own:
+There is no restriction on the project idea you work on, but to help you out we have curated a small list of projects you could choose from. Check out the list [here](projects).
 
-1. **[Zazu](https://github.com/tinytacoteam/zazu)** is a cross platform, fully extensible and open source launcher for hackers, creators and dabblers. The project is fairly active with a decent number of collaborators.
-2. **[FOSSASIA Mini Projects](https://github.com/fossasia/labs.fossasia.org/issues?q=is%3Aissue+is%3Aopen+label%3Amini-project)** are a good starting point for someone looking to apply for a GSoC project under FOSSASIA.
-3. 
+One among the following would be your mentor for the projects.
 
 You can reach out to the following persons to get help in selecting a proposal idea:
 
 {potential mentors only}
 1. Rohitt Vashishtha - aero31aero@gmail.com
 2. C Shri Akhil - shriakhilc@gmail.com
-3. Afroz - 
-4. Srimanta Barua - 
-5. Siddhant Kumar Patel - 
-6. Ankit Anand - 
+3. Afroz - NischayPro@gmail.com
+4. Srimanta Barua - srimanta.barua1@gmail.com
+5. Siddhant Kumar Patel - silu.patel1997@gmail.com
+6. Ankit Anand - ankit0905anand@gmail.com
 7. Vaibhav - 
-8. Nischay Pro - 
+8. Nischay Pro - NischayPro@gmail.com
 9. Ajay Krishna - 
