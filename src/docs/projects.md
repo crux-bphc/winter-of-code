@@ -1,5 +1,7 @@
 # Project Ideas
 
+**NOTE** : This page is being updated with new project ideas. Please keep checking regularly and stay in touch with the mentors listed [here](mentors).
+
 This is just a list of possible ideas to apply for in the Winter of Code and by no means a complete list.We suggest trying out directly for one of the existing open source organisations directly, but if you feel that it is too big a leap, you can start at a lesser difficulty and apply for one of the below projects/ideas, or bring up an idea of your own:
 
 1. **[Zazu](https://github.com/tinytacoteam/zazu)** is a cross platform, fully extensible and open source launcher for hackers, creators and dabblers. The project is fairly active with a decent number of collaborators and is written in JavaScript.
