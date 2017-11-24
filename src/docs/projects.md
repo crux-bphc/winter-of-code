@@ -1,6 +1,6 @@
 # Project Ideas
 
-**NOTE** : This page is being updated with new project ideas. Please keep checking regularly and stay in touch with the mentors listed [here](mentors).
+**NOTE** : *This page is being updated with new project ideas. Please keep checking regularly and stay in touch with the mentors listed [here](mentors).*
 
 This is just a list of possible ideas to apply for in the Winter of Code and by no means a complete list.We suggest trying out directly for one of the existing open source organisations directly, but if you feel that it is too big a leap, you can start at a lesser difficulty and apply for one of the below projects/ideas, or bring up an idea of your own:
 
@@ -13,4 +13,4 @@ This is just a list of possible ideas to apply for in the Winter of Code and by 
 7. **[ABC Text Editor](https://github.com/v-superuser/text-editor)** is a vim-like text-editor written completely in C. It currently works as a text viewer only but we wish to increase it's functionality over winters by adding features like editing, syntax highlighting etc. It's a good project if you just learnt C and want to try out a new project.
 8. **[CMS Android Application](https://github.com/crux-bphc/CMS-Android)** is the application that the whole campus uses to access CMS from their Android devices. The app is in need of some work and the road map is given [here](https://github.com/crux-bphc/CMS-Android/issues/25). However, if you feel there are other parts of the app that need focus as well, you are free to work on them.
 
-If you are looking for more projects, check out the [last year's Google Summer of Code organisations](https://summerofcode.withgoogle.com/archive/2017/organizations/) and explore around.
+If you are looking for more projects, check out the [last year's Google Summer of Code organisations](https://summerofcode.withgoogle.com/archive/2017/organizations/) and explore around. It is perfectly fine to have a plan with the aim of getting started with the community and making 3 relevant fixes in the next 2 months to begin with.
